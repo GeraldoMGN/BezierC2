@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EEE
+}
+#title {
+    text-align: center;
+}
+
+#credits {
+    position: absolute;
+    bottom: 0px;
+    margin: 15px;
+}  
+
+p, h1 {
+    color: #444;
+} 
+
+#app {
+    position: absolute;
+    margin: 2% 10% 0%;
+    width: 80%;
+    height: 80%;
+}
